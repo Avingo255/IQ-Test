@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+* {
+  margin: 0;
+}
+
+.sticky-section{
+  overflow:hidden;
+  background-color: black; 
+  margin-bottom:50px;
+  width:100%; 
+  color:white; 
+}
+
+nav a{
+  float:right;
+  text-decoration:none;
+  color:white;
+  font-size:18px; 
+  padding: 20px 30px; 
+  display:inline-block; 
+  transition: all 0.5s ease 0s;
+}
+
+#logo{
+  font-size:30px;  
+  font-weight:bold;
+  float:left;
+  padding: 15px 15px;
+  font-family: "Play";
+  background-color: rgb(0, 255, 149);
+  border-left: 25px solid transparent;
+  width: 125px;
+  color: black;
+}
+
+#logo{
+   margin-left:10%;  
+}
+nav{
+  margin-right:10%;
+  font-family: "Rajdhani";
+  border-radius: 30px; 
+}
+
+nav a:hover{
+  background-color:rgb(0, 146, 85); 
+}
+
+.content{
+  margin: 50px 12%;
+  font-family: "Be Vietnam Pro";
+}
+
+.sticky-section{
+  position:sticky;
+  position:-webkit-sticky;
+  top:0px;
+}

@@ -1,0 +1,79 @@
+1options:
+11, 13, 1, 2
+
+answer: 11
+
+2options:
+4, 2, 12, 8
+
+answer: 8
+
+3options:
+9, 8, 10, 13
+
+answer: 9
+
+4options:
+A, E, 4, 5
+
+answer: 4
+
+5options:
+1550, 620, 318, 312
+
+answer: 312
+
+6options:
+image
+answer: top-left
+
+7options:
+yes, no, maybe, i dont know
+
+answer:yes
+
+8options:
+24,36, 15, impossible
+
+answer:24
+
+9options:
+1, 8, 13, 4
+
+answer: 4
+
+10options:
+image
+answer: full right column
+
+11options:
+image
+answer:middle-square
+
+12options:
+225, 223, 288, 605
+
+answer: 225
+
+13options:
+C lies & B cheats
+D lies & A cheats
+C lies & C cheats
+B lies & C cheats
+
+answer: C lies & B cheats
+
+14options:
+8, 4, 2, 3
+
+answer: 8
+
+15options:
+-5, -23, 9, 5
+
+answers: -5
+
+16options:
+95, 80, 106, 25
+
+answer: 95
